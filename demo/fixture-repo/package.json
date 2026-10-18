@@ -1,0 +1,10 @@
+{
+  "name": "demo-app",
+  "version": "1.0.0",
+  "private": true,
+  "description": "DEMO FIXTURE repository — not a live scan target",
+  "main": "src/index.js",
+  "dependencies": {
+    "lodash": "^4.17.0"
+  }
+}
